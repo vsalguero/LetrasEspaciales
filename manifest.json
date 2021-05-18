@@ -1,0 +1,39 @@
+{
+    "short_name": "Sitio Web",
+    "name": "Letras Espaciales",
+    "theme_color": "#003366",
+    "description": "Proyecto Scratch - Vladimir Salguero",
+    "lang": "es",
+    "dir": "rtl",
+    "display": "fullscreen",
+    "background_color": "#070748",
+  
+    "icons": [
+      {
+        "src": "https://misionletras.web.app/splash_screen.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "https://misionletras.web.app/launcher-icon-1x.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "https://misionletras.web.app/apple-touch-icon-152x152.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      },
+      {
+        "src": "https://misionletras.web.app/apple-touch-icon-180x180.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+      {
+        "src": "https://misionletras.web.app/launcher-icon-4x.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "index.html"
+  }
