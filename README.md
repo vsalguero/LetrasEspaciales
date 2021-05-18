@@ -9,5 +9,6 @@
 <br><hr>
 
 <br>
-Support
-<a href="https://www.buymeacoffee.com/vsalguero" target="_blank"><img src="https://media.giphy.com/media/sqQihma8JiyO7Skpqv/giphy.gif" alt="Buy Me A Coffee" height="100" width="300"></a>
+<strong>Support</strong>
+<br>
+<a href="https://www.buymeacoffee.com/vsalguero" target="_blank"><img src="https://media.giphy.com/media/sqQihma8JiyO7Skpqv/giphy.gif" alt="Buy Me A Coffee" height="86" width="300"></a>
