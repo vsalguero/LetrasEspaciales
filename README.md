@@ -5,5 +5,9 @@
 ### Recurso disponible en Scratch https://scratch.mit.edu/projects/350573763/  
 ### Preview
 <img src="preview.jpg">
-<br><br>
-<a href="https://www.buymeacoffee.com/vsalguero" target="_blank"><img src="https://media.giphy.com/media/sqQihma8JiyO7Skpqv/giphy.gif" alt="Buy Me A Coffee" height="71" width="300"></a>
+
+<br><hr>
+
+<br>
+Support
+<a href="https://www.buymeacoffee.com/vsalguero" target="_blank"><img src="https://media.giphy.com/media/sqQihma8JiyO7Skpqv/giphy.gif" alt="Buy Me A Coffee" height="100" width="300"></a>
