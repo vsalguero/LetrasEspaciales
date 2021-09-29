@@ -9,6 +9,6 @@
 <br><hr>
 
 <br>
-<strong>SUPPORT</strong>
+<strong>SUPPORT this project</strong><br>
 <br>
-<a href="https://www.buymeacoffee.com/vsalguero" target="_blank"><img src="https://media.giphy.com/media/sqQihma8JiyO7Skpqv/giphy.gif" alt="Buy Me A Coffee" height="70" width="250"></a>
+<a href="https://www.buymeacoffee.com/yoleo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=&amp;slug=yoleo&amp;button_colour=BD5FFF&amp;font_colour=ffffff&amp;font_family=Bree&amp;outline_colour=000000&amp;coffee_colour=FFDD00" /></a>
